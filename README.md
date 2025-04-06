@@ -29,5 +29,3 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize or extend this template as needed. Let me know if you need further modifications!
